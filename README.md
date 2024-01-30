@@ -5,7 +5,7 @@ The technology used in this project is <br>--->Java for front-end and back-end <
 <br>
 <br>
 
-Project Name : S-Mart Management System <br>
+Project Name : Cafe Management System <br>
 Language Used : Java <br>
 Database : MYSQL<br>
 Developed By : Siddheshwar Koli | Atharva Walke<br>
